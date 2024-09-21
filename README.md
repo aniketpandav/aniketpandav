@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Pandav</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-<img align="right" alt="coding" width="500" src="https://github.com/aniketpandav/aniketpandav/blob/main/development.gif"/>
+<img align="right" alt="coding" width="500" src="https://github.com/aniketpandav/aniketpandav/blob/main/development.gif" field="above"/>
 
 ## 💫 About Me:
 🌱 I’m currently learning AI-ML Devlopment using Python<br><br>⚡ Fun fact 💡 Fun Fact Zone | Where Creativity Meets Code! 🚀 Did you know octopuses have 3 hearts? Well, here in the coding world, we put heart into every project — and maybe a dash of blue blood too! Let's build, break, and rebuild with a smile 😄!
