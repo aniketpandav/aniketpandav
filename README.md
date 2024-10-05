@@ -6,7 +6,7 @@
 🌱 I’m currently learning Master's of Computer Applicaion 🎓<br><br>⚡ Fun fact 💡 Fun Fact Zone | Where Creativity Meets Code! 🚀 Did you know octopuses have 3 hearts? Well, here in the coding world, we put heart into every project — and maybe a dash of blue blood too! Let's build, break, and rebuild with a smile 😄!
 
 
-## 🌐 Socials: 
+## 🌐 Socials: -
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_v_pandav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-pandav) 
 
 # 💻 Tech Stack:
